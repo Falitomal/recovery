@@ -1,5 +1,5 @@
 <h1 align="center">
-📖 Recovery | 42 Cybersecurity Bootcam
+📖 Recovery | 42 Cybersecurity Bootcamp
 </h1>
 
 <p align="center">
